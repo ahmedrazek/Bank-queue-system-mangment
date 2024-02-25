@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1708623907 source:e:\imp\iti\bank system\main.cpp
+	<iostream>
+	<cstddef>
+	<iomanip>
+	<fstream>
+	"ClientQueue.h"
+	"TellerList.h"
+	"Bank.h"
+
+1707929103 source:e:\imp\iti\bank system\src\client.cpp
+	"Client.h"
+
+1708589535 e:\imp\iti\bank system\include\client.h
+	<cstddef>
+
+1708596235 e:\imp\iti\bank system\include\clientqueue.h
+	"Client.h"
+
+1708623403 e:\imp\iti\bank system\include\tellerlist.h
+	"Teller.h"
+	"ClientQueue.h"
+
+1708623382 e:\imp\iti\bank system\include\teller.h
+
+1708623825 e:\imp\iti\bank system\include\bank.h
+	"Client.h"
+	<iostream>
+	<cstddef>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	"ClientQueue.h"
+	"TellerList.h"
+
